@@ -1,0 +1,5 @@
+Pike Sound Streamer v1.0
+
+Edit \data\files\about.txt
+To display text here
+Thank you PikeG2!
